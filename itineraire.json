@@ -1,0 +1,192 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Bologne, la Dotta, la Grassa, la Rossa : Escapade Gourmande et Relaxante",
+  "budget_total": "Environ 950-1000 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "1h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans le cœur historique",
+      "legende": "Après un vol rapide depuis Paris, plongez directement dans l'ambiance médiévale de Bologne. Flânez sous les portiques emblématiques et découvrez la majestueuse Piazza Maggiore, le cœur battant de la ville.\nInstallez-vous confortablement et laissez-vous charmer par l'atmosphère unique de cette cité italienne.\nUne première soirée douce pour s'acclimater et savourer les premières saveurs locales.",
+      "lieu": "Bologne",
+      "activites": [
+        "🛬 <strong>Arrivée à Bologne</strong>: Atterrissage à l'aéroport Guglielmo Marconi et transfert rapide vers le centre-ville.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Déposez vos bagages et rafraîchissez-vous avant de partir à l'aventure.",
+        "🚶‍♂️ <strong>Balade sur la Piazza Maggiore</strong>: Admirez la Basilique San Petronio, le Palazzo d'Accursio et la Fontaine de Neptune, symboles de la ville.",
+        "🍽️ <strong>Dîner dans le Quadrilatero</strong>: Savourez votre premier repas bolognais dans ce quartier historique et animé, réputé pour ses produits frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piazza Maggiore, Bologne",
+          "categorie": "Place",
+          "coords": { "lat": 44.4938, "lng": 11.3426 }
+        },
+        {
+          "nom_recherche": "Quadrilatero, Bologne",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 44.4947, "lng": 11.3445 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le \"Marconi Express\" relie l'aéroport Guglielmo Marconi à la gare centrale de Bologne en seulement 7 minutes, offrant un accès facile au centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture, détente et jardins secrets",
+      "legende": "Explorez les trésors intellectuels de Bologne en visitant son ancienne université, puis offrez-vous une pause verdoyante dans un magnifique parc.\nUne journée équilibrée entre histoire, art et nature pour un ressourcement complet.\nLaissez-vous porter par la douceur de vivre bolognaise, entre découvertes culturelles et moments de pure détente.\nLes portiques vous guideront à travers la ville, offrant ombre et charme à chaque pas.",
+      "lieu": "Bologne",
+      "activites": [
+        "📚 <strong>Visite de l'Archiginnasio</strong>: Découvrez l'ancienne université de Bologne, son magnifique Théâtre Anatomique et sa bibliothèque historique.",
+        "🚶‍♀️ <strong>Flânerie sous les portiques</strong>: Laissez-vous guider par les 40 km de portiques, classés au patrimoine mondial de l'UNESCO, pour une balade ombragée et relaxante.",
+        "🌳 <strong>Détente aux Giardini Margherita</strong>: Profitez d'une balade apaisante dans le plus grand parc public de la ville, idéal pour un pique-nique ou une sieste.",
+        "🍦 <strong>Pause Gelato</strong>: Goûtez une glace artisanale, un incontournable italien, pour une touche de fraîcheur gourmande."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Archiginnasio, Bologne",
+          "categorie": "Bâtiment historique",
+          "coords": { "lat": 44.4925, "lng": 11.3444 }
+        },
+        {
+          "nom_recherche": "Giardini Margherita, Bologne",
+          "categorie": "Parc",
+          "coords": { "lat": 44.4820, "lng": 11.3500 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez de bonnes chaussures de marche, car Bologne se découvre principalement à pied et les portiques invitent à de longues promenades."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🍝",
+      "titre": "Saveurs locales et panoramas emblématiques",
+      "legende": "Plongez dans la gastronomie bolognaise au marché, puis prenez de la hauteur pour admirer la ville sous un autre angle.\nUne journée riche en découvertes gustatives et visuelles, couronnée par une promenade apaisante vers un sanctuaire.\nLaissez vos sens s'éveiller aux parfums et aux couleurs des produits locaux.\nLa vue panoramique récompensera vos efforts et vous offrira des souvenirs inoubliables.",
+      "lieu": "Bologne",
+      "activites": [
+        "🛍️ <strong>Exploration du Mercato delle Erbe</strong>: Imprégnez-vous des saveurs locales et dégustez des produits frais dans ce marché couvert animé.",
+        "⬆️ <strong>Ascension de la Torre degli Asinelli (optionnel)</strong>: Pour les plus courageux, une vue imprenable sur la ville vous attend (réservation conseillée pour éviter l'attente).",
+        "🚶‍♀️ <strong>Promenade vers San Luca</strong>: Empruntez le plus long portique du monde (3,8 km) jusqu'au Santuario della Madonna di San Luca pour une vue panoramique et une ambiance sereine.",
+        "🍷 <strong>Apéritivo bolognais</strong>: Terminez la journée par un apéritif typique avec des produits locaux et un verre de vin régional."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercato delle Erbe, Bologne",
+          "categorie": "Marché couvert",
+          "coords": { "lat": 44.4965, "lng": 11.3375 }
+        },
+        {
+          "nom_recherche": "Torre degli Asinelli, Bologne",
+          "categorie": "Tour",
+          "coords": { "lat": 44.4947, "lng": 11.3467 }
+        },
+        {
+          "nom_recherche": "Santuario della Madonna di San Luca, Bologne",
+          "categorie": "Sanctuaire",
+          "coords": { "lat": 44.4849, "lng": 11.2987 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "La montée à San Luca est une belle balade, mais un bus (ligne 20 ou 58) peut vous y emmener si vous préférez économiser vos jambes ou le temps."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👋",
+      "titre": "Derniers charmes et départ",
+      "legende": "Profitez d'un dernier aperçu des charmes cachés de Bologne avant de vous envoler. Une matinée douce pour des souvenirs impérissables.\nDécouvrez un coin insolite de la ville, surnommé la \"petite Venise\", pour une touche de poésie.\nPrenez le temps de quelques achats de dernière minute pour ramener un peu de l'Italie chez vous.\nUn départ en douceur, la tête remplie de belles images et de saveurs exquises.",
+      "lieu": "Bologne",
+      "activites": [
+        "🛶 <strong>Découverte de la Finestra sul Canale</strong>: Admirez ce petit coin secret, surnommé la \"petite Venise\" de Bologne, où un canal se dévoile subitement.",
+        "🎁 <strong>Achats de souvenirs</strong>: Trouvez quelques délices locaux (fromages, charcuteries) ou objets artisanaux à rapporter de votre voyage.",
+        "✈️ <strong>Départ de Bologne</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, la tête pleine de merveilleux souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Finestra sul Canale, Bologne",
+          "categorie": "Point de vue",
+          "coords": { "lat": 44.4975, "lng": 11.3435 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs gourmands",
+          "texte": "Pensez au Parmigiano Reggiano, au vinaigre balsamique de Modène, ou à la Mortadella pour vos souvenirs culinaires. Ils feront le bonheur de vos proches."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 179 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (bus, Marconi Express)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 350 €/pers (35€/repas en moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (3 nuits en 3* à 100-120€/nuit)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (musées, tours)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai, Juin, Septembre, Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "La langue officielle est l'italien. Quelques notions de base seront appréciées, mais l'anglais est souvent compris dans les zones touristiques et les hôtels.", "symbole": "🗣️" },
+    { "titre": "Bologne est une ville très agréable à explorer à pied. Le réseau de bus Tper est efficace pour les distances plus longues ou pour se rendre à San Luca.", "symbole": "🚶" },
+    { "titre": "En mai, les températures sont douces et agréables (15-25°C). Prévoyez des vêtements légers pour la journée et une veste pour les soirées plus fraîches.", "symbole": "🌡️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Les trois surnoms de Bologne", 
+      "texte": "Bologne est affectueusement surnommée \"La Dotta\" (la savante) pour son université historique, \"La Grassa\" (la grasse) pour sa gastronomie riche et généreuse, et \"La Rossa\" (la rouge) pour la couleur distinctive de ses toits et bâtiments en brique." 
+    },
+    { 
+      "symbole": "🤫", 
+      "titre": "Le \"mur des chuchotis\"", 
+      "texte": "Sous le Palazzo del Podestà, il existe un point où l'on peut chuchoter dans un coin et être entendu clairement à l'angle opposé, grâce à une acoustique particulière. C'est l'un des sept secrets de Bologne !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍝", 
+      "titre": "Tagliatelle al ragù", 
+      "description": "Les véritables \"spaghetti bolognaise\" n'existent pas ! À Bologne, on déguste des tagliatelles fraîches avec une sauce ragù mijotée longuement à base de viande, de légumes et de tomates. Un délice authentique." 
+    },
+    { 
+      "symbole": "🥟", 
+      "titre": "Tortellini in brodo", 
+      "description": "De minuscules pâtes farcies à la viande, servies traditionnellement dans un bouillon de chapon. Un plat réconfortant et raffiné, souvent dégusté lors des fêtes." 
+    },
+    { 
+      "symbole": "🍖", 
+      "titre": "Mortadella", 
+      "description": "Cette charcuterie emblématique de Bologne est une saucisse cuite, finement hachée, parsemée de lardons et parfois de pistaches. Parfaite en antipasto, dans un panino ou simplement coupée en dés." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-15/2026-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bologne", "url": "https://www.bolognawelcome.com/fr/", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "Tper (bus Bologne)", "url": "https://www.tper.it/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Italie", "url": "https://www.ilmeteo.it/meteo/Bologna", "symbole": "🌤️" }
+  ]
+}
